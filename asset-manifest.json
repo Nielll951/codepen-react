@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codepen-react/static/css/main.8c3d40e5.css",
+    "main.js": "/codepen-react/static/js/main.67c2ac7d.js",
+    "index.html": "/codepen-react/index.html",
+    "main.8c3d40e5.css.map": "/codepen-react/static/css/main.8c3d40e5.css.map",
+    "main.67c2ac7d.js.map": "/codepen-react/static/js/main.67c2ac7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3d40e5.css",
+    "static/js/main.67c2ac7d.js"
+  ]
+}
